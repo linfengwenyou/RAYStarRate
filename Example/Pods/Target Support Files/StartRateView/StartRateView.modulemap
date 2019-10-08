@@ -1,0 +1,6 @@
+framework module StartRateView {
+  umbrella header "StartRateView-umbrella.h"
+
+  export *
+  module * { export * }
+}

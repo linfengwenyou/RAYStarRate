@@ -1,0 +1,27 @@
+{
+  "name": "StartRateView",
+  "version": "0.1.0",
+  "summary": "A short description of StartRateView.",
+  "description": "TODO: Add long description of the pod here.",
+  "homepage": "https://github.com/linfengwenyou@gmail.com/StartRateView",
+  "license": {
+    "type": "MIT",
+    "file": "LICENSE"
+  },
+  "authors": {
+    "linfengwenyou@gmail.com": "linfengwenyou@sina.com"
+  },
+  "source": {
+    "git": "https://github.com/linfengwenyou@gmail.com/StartRateView.git",
+    "tag": "0.1.0"
+  },
+  "platforms": {
+    "ios": "8.0"
+  },
+  "source_files": "StartRateView/Classes/**/*",
+  "resource_bundles": {
+    "StartRateView": [
+      "StartRateView/Assets/*"
+    ]
+  }
+}
