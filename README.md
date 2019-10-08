@@ -1,7 +1,3 @@
-<<<<<<< HEAD
-# RAYStarRate
-评分星星，支持xib，代码创建
-=======
 # StartRateView
 
 [![CI Status](https://img.shields.io/travis/linfengwenyou@gmail.com/StartRateView.svg?style=flat)](https://travis-ci.org/linfengwenyou@gmail.com/StartRateView)
@@ -31,4 +27,3 @@ linfengwenyou@gmail.com, linfengwenyou@sina.com
 ## License
 
 StartRateView is available under the MIT license. See the LICENSE file for more info.
->>>>>>> Initial commit
